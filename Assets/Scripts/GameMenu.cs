@@ -2,30 +2,40 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class GameMenu : MonoBehaviour
-{
-    public GameObject pauseMenuUI;
+public class GameMenu : MonoBehaviour {
+    public GameObject settingCanvas;
+    public GameObject playerCanvas;
 
-    // Update is called once per frame
     void Update() {
         // Toggle the pause screen when ESC is pressed
-        if (Input.GetKeyDown(KeyCode.Escape)){
-            if (pauseMenuUI.activeSelf) {
+        if (Input.GetKeyDown(KeyCode.Escape)) {
+            // Check if any UI element is active
+            if (settingCanvas.activeSelf || playerCanvas.activeSelf) {
                 Resume();
-            }
-            else {
+            } else {
                 Pause();
             }
         }
     }
 
     public void Resume() {
-        pauseMenuUI.SetActive(false);
+        settingCanvas.SetActive(false); 
+        playerCanvas.SetActive(false);  
         Time.timeScale = 1f; // Resume normal time
     }
 
     public void Pause() {
-        pauseMenuUI.SetActive(true);
+        playerCanvas.SetActive(true); 
         Time.timeScale = 0f; // Freeze time
+    }
+
+    public void ShowPlayer() {
+        playerCanvas.SetActive(true);
+        settingCanvas.SetActive(false);
+    }
+
+    public void ShowSettings() {
+        playerCanvas.SetActive(false);
+        settingCanvas.SetActive(true);
     }
 }
