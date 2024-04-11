@@ -8,6 +8,7 @@ public class PlayerController : MonoBehaviour
     private Animator animator;
     private Rigidbody2D player;
     private Vector2 movement; // Use this instance variable for movement
+    public Transform respawnPoint;
 
     void Start() {
         animator = GetComponent<Animator>();
@@ -35,5 +36,13 @@ public class PlayerController : MonoBehaviour
     }
     private void Awake() {
         DontDestroyOnLoad(gameObject);
+    }
+
+    void OnTriggerEnter2D(Collider2D other)
+    {
+        if (other.CompareTag("book"))
+        {
+            transform.position = respawnPoint.position;
+        }
     }
 }
