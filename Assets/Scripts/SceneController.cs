@@ -5,7 +5,6 @@ using UnityEngine;
 
 public class SceneController : MonoBehaviour
 {
-    public GameObject player;
 
     // Start is called before the first frame update
     void Start()
@@ -30,9 +29,5 @@ public class SceneController : MonoBehaviour
         {
             yield return null;
         }
-        player.transform.position = Vector3.zero;
-    }
-    private void Awake() {
-        DontDestroyOnLoad(gameObject);
     }
 }

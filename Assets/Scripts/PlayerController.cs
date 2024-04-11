@@ -34,9 +34,6 @@ public class PlayerController : MonoBehaviour
     void FixedUpdate() {
         player.MovePosition(player.position + movement * speed * Time.fixedDeltaTime);
     }
-    private void Awake() {
-        DontDestroyOnLoad(gameObject);
-    }
 
     void OnTriggerEnter2D(Collider2D other)
     {
