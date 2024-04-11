@@ -3249,6 +3249,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 6
+  respawnPoint: {fileID: 0}
 --- !u!95 &245978983
 Animator:
   serializedVersion: 5
