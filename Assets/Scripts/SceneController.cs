@@ -20,6 +20,8 @@ public class SceneController : MonoBehaviour
     public void switchScene(string sceneName) {
         StartCoroutine(LoadAsyncScene(sceneName));
     }
+   
+
     IEnumerator LoadAsyncScene(string sceneName)
     {
         AsyncOperation asyncLoad = SceneManager.LoadSceneAsync(sceneName);
