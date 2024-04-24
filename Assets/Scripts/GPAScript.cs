@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine.UI;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class GPAScript : MonoBehaviour
 {
@@ -11,11 +12,14 @@ public class GPAScript : MonoBehaviour
     public bool timerOn;
     public int gracePeriod = 10;
     public ScoreScript score;
+    private int level;
     // Start is called before the first frame update
     void Start()
     {
         timerOn = true;
         score = GameObject.Find("Score").GetComponent<ScoreScript>();
+        Scene scene = SceneManager.GetActiveScene();
+        level = int.Parse(scene.name.Split(' ')[1]);
     }
 
     // Update is called once per frame
@@ -40,7 +44,7 @@ public class GPAScript : MonoBehaviour
         if (gpa < 2.00) {
             gpa = 2.00;
         }
-        score.year1Score = gpa;
+        score.gpas[level-1] = gpa;
         gpaText.text = string.Format("GPA: {0:F2}", gpa);
     }
 }
