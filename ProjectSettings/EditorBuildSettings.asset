@@ -9,6 +9,9 @@ EditorBuildSettings:
     path: Assets/Scenes/SampleScene.unity
     guid: 2cda990e2423bbf4892e6590ba056729
   - enabled: 1
+    path: Assets/Scenes/Main Menu.unity
+    guid: e46541d7d4110423fab0717707da088d
+  - enabled: 1
     path: Assets/Scenes/Lawn Year 1.unity
     guid: 171e5540f7131439c86763a0341cac8d
   - enabled: 1
