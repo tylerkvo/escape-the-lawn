@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class ScoreScript : MonoBehaviour
 {
-    public double[] gpas = { 0.00, 0.00, 0.00, 0.00};
+    public double[] gpas = {0.00, 0.00, 0.00, 0.00};
     // Start is called before the first frame update
     void Start()
     {
