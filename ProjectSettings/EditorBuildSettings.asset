@@ -20,4 +20,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Level 2.unity
     guid: 49b57f3bee20c4c718011d34eea80d9d
+  - enabled: 1
+    path: Assets/Scenes/Lawn Year 2.unity
+    guid: 3e2db4095f6f74c8f9b286a523ccd6af
+  - enabled: 1
+    path: Assets/Scenes/Lawn Year 3.unity
+    guid: 4563836ff406d4fd9b546d75eb540c8e
   m_configObjects: {}
