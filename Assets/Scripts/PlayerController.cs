@@ -4,10 +4,11 @@ using UnityEngine;
 
 public class PlayerController : MonoBehaviour
 {
-    public float speed = 5.0f;
+    public static bool canMove = true;  // Control flag for player movement
+    public float speed = 6.0f;
     private Animator animator;
     private Rigidbody2D player;
-    private Vector2 movement; // Use this instance variable for movement
+    private Vector2 movement;
     public Transform respawnPoint;
 
     void Start() {
@@ -16,29 +17,35 @@ public class PlayerController : MonoBehaviour
     }
 
     void Update() {
-        float moveHorizontal = Input.GetAxis("Horizontal");
-        float moveVertical = Input.GetAxis("Vertical");
+        if (canMove) {  // Check if movement is allowed
+            float moveHorizontal = Input.GetAxis("Horizontal");
+            float moveVertical = Input.GetAxis("Vertical");
 
-        movement = new Vector2(moveHorizontal, moveVertical); // Update the instance variable directly
+            movement = new Vector2(moveHorizontal, moveVertical); // Update the instance variable directly
 
-        // Check if the player is moving
-        if (movement != Vector2.zero) {
-            animator.SetBool("IsWalking", true);
-            animator.SetFloat("MoveX", moveHorizontal);
-            animator.SetFloat("MoveY", moveVertical);
+            // Check if the player is moving
+            if (movement != Vector2.zero) {
+                animator.SetBool("IsWalking", true);
+                animator.SetFloat("MoveX", moveHorizontal);
+                animator.SetFloat("MoveY", moveVertical);
+            } else {
+                animator.SetBool("IsWalking", false);
+            }
         } else {
+            // Stop movement and animations when canMove is false
+            movement = Vector2.zero;
             animator.SetBool("IsWalking", false);
         }
     }
 
     void FixedUpdate() {
+        // Apply movement
         player.MovePosition(player.position + movement * speed * Time.fixedDeltaTime);
     }
 
     void OnTriggerEnter2D(Collider2D other)
     {
-        if (other.CompareTag("book"))
-        {
+        if (other.CompareTag("book")) {
             transform.position = respawnPoint.position;
         }
     }
