@@ -7,7 +7,7 @@ GitHub link: https://github.com/cs4730-sp24-uva/game-project-escapegame
 Game pitch - Embark on a thrilling puzzle adventure through the grand Pavilions of UVA’s historic Lawn, where players must conquer mini UVA-themed quests to execute a daring escape (graduation)!
 
 How to play - What do we need to know in order to play the game? Controls? Setup? Anything and everything you think we need. 
-The game uses WASD or arrowkeys to move the player, and spacebar to interact. To begin the game, enter the main menu and press 'Start College.'
+Controls: The game uses WASD or arrowkeys to move the player, spacebar to interact, and escape key to cancel. To begin the game, enter the main menu and press 'Start College.' The player will spawn on UVA's Lawn, where they can move around to explore the world. A hovering arrow will indicate the direction a player needs to follow to get to a minigame they must complete. They must complete one minigame to move onto the next.
 
 
 Amount/type of content available - Explain how many levels, what major features are available, etc, basically so we don’t miss anything you created.
