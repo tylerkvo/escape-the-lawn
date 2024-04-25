@@ -1,5 +1,3 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/Mv6l8mWK)
-
 Name of game: Escape the Lawn
 
 Team Members: Thumay Huynh (tvh4xuk), Jalon Thomas (jat4ef), Tyler Vo (tkv9zd), Duncan McDonald (dxd2rc)
@@ -12,5 +10,7 @@ How to play - What do we need to know in order to play the game? Controls? Setup
 
 
 Amount/type of content available - Explain how many levels, what major features are available, etc, basically so we don’t miss anything you created *** We will come back to this once our game is done! ****
+Levels: There are 2 levels, accessed through the open pavilion doors on the Lawn. 
+Features: You can speak to NPCs before each level with relevant clues and messages. 
 
 Lessons learned - What did you learn about game development through this process? *** We will come back to this once our game is done! ****
