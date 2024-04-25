@@ -24782,6 +24782,29 @@ PrefabInstance:
       propertyPath: m_Text
       value: 'GPA: 4.00'
       objectReference: {fileID: 0}
+    - target: {fileID: 2643279716891582177, guid: e95a0b08891a8456cb8f2ac4b209c92f, type: 3}
+      propertyPath: m_text
+      value: 'Your goal is to escape the Shannon Library.
+
+
+        Avoid the flying
+        books.
+
+
+        After 15 seconds, your grade will begin to decrease.
+
+
+        Good
+        luck!'
+      objectReference: {fileID: 0}
+    - target: {fileID: 6951695856015346591, guid: e95a0b08891a8456cb8f2ac4b209c92f, type: 3}
+      propertyPath: timerOn
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6951695856015346591, guid: e95a0b08891a8456cb8f2ac4b209c92f, type: 3}
+      propertyPath: gracePeriod
+      value: 15
+      objectReference: {fileID: 0}
     - target: {fileID: 7209186407508728105, guid: e95a0b08891a8456cb8f2ac4b209c92f, type: 3}
       propertyPath: m_Pivot.x
       value: 0
