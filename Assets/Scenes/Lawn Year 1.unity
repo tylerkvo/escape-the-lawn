@@ -127499,10 +127499,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a21ae218a1ef147f1b496443ccbef268, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  year1Score: 0
-  year2Score: 0
-  year3Score: 0
-  year4Score: 0
+  gpas:
+  - 0
+  - 0
+  - 0
+  - 0
 --- !u!4 &1477069020
 Transform:
   m_ObjectHideFlags: 0
