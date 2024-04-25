@@ -14,7 +14,7 @@ public class SyllabusScript : MonoBehaviour
 
     void Update()
     {
-        if (Input.GetKeyDown(KeyCode.X))
+        if (Input.GetKeyDown(KeyCode.Space))
         {
             SyllabusPanel.SetActive(false); // Hide the instructions panel
             Time.timeScale = 1f; // Resume the game time
