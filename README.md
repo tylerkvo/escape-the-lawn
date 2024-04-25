@@ -14,4 +14,4 @@ Amount/type of content available - Explain how many levels, what major features 
 There are two playable levels, and the second is unlocked once the first is completed. The next level is pointed to by an arrow near the player. There are individualized NPCs for each year each with their own dialogue. Pressing 'esc' on the lawn will show the player's performance (gpa) across the years.
 
 
-Lessons learned - What did you learn about game development through this process? We learned that consistent communication and feedback is essential in game design to fix conflicts and bugs within the game. It takes iterative trial and error to experiment with game elements to add to the aesthetic.
+Lessons learned - We learned that consistent communication and feedback is essential in game design to fix conflicts and bugs within the game. It takes iterative trial and error to experiment with game elements to add to the aesthetic.
