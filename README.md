@@ -13,4 +13,4 @@ Amount/type of content available - Explain how many levels, what major features 
 Levels: There are 2 levels, accessed through the open pavilion doors on the Lawn. 
 Features: You can speak to NPCs before each level with relevant clues and messages. 
 
-Lessons learned - What did you learn about game development through this process? *** We will come back to this once our game is done! ****
+Lessons learned - What did you learn about game development through this process? We learned that consistent communication and feedback is essential in game design to fix conflicts and bugs within the game. It takes iterative trial and error to experiment with game elements to add to the aesthetic.
