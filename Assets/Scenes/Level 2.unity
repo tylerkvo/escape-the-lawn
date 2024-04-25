@@ -43321,11 +43321,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2643279716891582177, guid: e95a0b08891a8456cb8f2ac4b209c92f, type: 3}
       propertyPath: m_text
-      value: 'Your goal is to escape the oavillion garden hedge maze.
+      value: 'Your goal is to escape the pavillion garden hedge maze.
 
 
         Avoid
-        getting caught by prof. McBurney.
+        getting caught by Prof. McBurney.
 
 
         After 45 seconds, your grade
