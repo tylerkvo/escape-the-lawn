@@ -43334,6 +43334,10 @@ PrefabInstance:
 
         Good luck!'
       objectReference: {fileID: 0}
+    - target: {fileID: 3814339720573501153, guid: e95a0b08891a8456cb8f2ac4b209c92f, type: 3}
+      propertyPath: m_UiScaleMode
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 6951695856015346591, guid: e95a0b08891a8456cb8f2ac4b209c92f, type: 3}
       propertyPath: gracePeriod
       value: 45
@@ -56097,7 +56101,7 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: e204d0ff6736949eb9b2cf005eff6bea, type: 3}
   m_PlayOnAwake: 1
-  m_Volume: 1
+  m_Volume: 0.705
   m_Pitch: 1
   Loop: 0
   Mute: 0
