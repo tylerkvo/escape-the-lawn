@@ -43,12 +43,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 32
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -121,7 +121,2422 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Bouncer_32x32_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 448
+        width: 26
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd4cbbd7ff4784d70a6d65381dd6166b
+      internalID: 433228093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bouncer_32x32_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 448
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 705e7299bd03b4f2d93e39905749d5cd
+      internalID: -1221629172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bouncer_32x32_2
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 448
+        width: 26
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d8867d4d30894996961d773de4dd90e
+      internalID: -317438381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bouncer_32x32_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 448
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b52aa06ce1fe4c79b82bd5bc2c2b44d
+      internalID: -1513346462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bouncer_32x32_4
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 384
+        width: 26
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6abf59724e4b74c2eae525f39840633b
+      internalID: -1852368331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bouncer_32x32_5
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 384
+        width: 26
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28f7cc9d0a9af430c97d0b647f618105
+      internalID: -692759199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bouncer_32x32_6
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 384
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09c520372660c405aaf4f03c1564d820
+      internalID: 1796100337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bouncer_32x32_7
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 384
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad7fdef45da084a4da046c992c576f6f
+      internalID: -1199778948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bouncer_32x32_8
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 384
+        width: 26
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7e50c1340b9844b39c6490e405f7d06
+      internalID: -1262848563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bouncer_32x32_9
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 384
+        width: 26
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2139f345ae4bc4c10ad80a7f3b49f406
+      internalID: -1641059437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bouncer_32x32_10
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f87ce0cc2f25a43119e5355fc96028a0
+      internalID: 384481504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bouncer_32x32_11
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 384
+        width: 26
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e1747408798e487f82995ef05ed04b4
+      internalID: 373590102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bouncer_32x32_12
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 384
+        width: 26
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 200e2194564e14fcea51de07e5ffb4f2
+      internalID: -1288376985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bouncer_32x32_13
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 384
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 277d65ccc28b84416a535d333b872c25
+      internalID: -141825317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bouncer_32x32_14
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 384
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8124942e5d37d4beab94cff63282d6ee
+      internalID: 74547508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bouncer_32x32_15
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 384
+        width: 26
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 104eae4a87f664ed583c9c75a65d3a6c
+      internalID: 295115918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bouncer_32x32_16
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 384
+        width: 26
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5876e04cc64c7448493c96e5bae53068
+      internalID: 1572980626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bouncer_32x32_17
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 384
+        width: 192
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddb8829167ff84d35ac79d0b7280ef62
+      internalID: 1380297801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bouncer_32x32_18
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 320
+        width: 26
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90fb1c75e12ff47fa97528f756b5cfd6
+      internalID: -1349913708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bouncer_32x32_19
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 322
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cca1b6a140f704f239b087774a7a03db
+      internalID: -1389836853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bouncer_32x32_20
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 320
+        width: 26
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 613c7e51edb1341378b1655479c043e8
+      internalID: 96361100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bouncer_32x32_21
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 320
+        width: 26
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2e8344760dbf4aeda7774f83d14e07d
+      internalID: 2103708811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bouncer_32x32_22
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 322
+        width: 26
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 214b4135ace2c43ceac6ee08b71a7e1b
+      internalID: -852873523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bouncer_32x32_23
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 320
+        width: 26
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0860b47bba644f7a8b6bae6a739d3e3
+      internalID: 1000047559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bouncer_32x32_24
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d67c764dd9804463b801be270c71073d
+      internalID: 351347587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bouncer_32x32_25
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 320
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d502f8f3ab114ab7a3e9da6dfd2b07f
+      internalID: -1219607366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bouncer_32x32_26
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 320
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 734f936a2ee1a4d10bba5c5c43e6589c
+      internalID: 1058918357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bouncer_32x32_27
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 320
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9d3dfc330ade4e129e2afe640064bfd
+      internalID: 1174094259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bouncer_32x32_28
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ebefe748b7a5415796afc6aee0a2e03
+      internalID: -573866684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bouncer_32x32_29
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 320
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e60a48987301a45ffbaf6bce1c5e9d74
+      internalID: -1852228309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bouncer_32x32_30
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 320
+        width: 26
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6794f69df25834df08349210cfe1feeb
+      internalID: 793650821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bouncer_32x32_31
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 322
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c914eafc3a154bfea2b869c9b2d5036
+      internalID: 1805062438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bouncer_32x32_32
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 320
+        width: 26
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef752674061f74984bf35290d61d4a2f
+      internalID: -1944161953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bouncer_32x32_33
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 320
+        width: 26
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 575a59ee72ebb4539bbd8252d7d179eb
+      internalID: -896935610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bouncer_32x32_34
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 322
+        width: 26
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d630efee7aa6d4ce5bf81e341515ff53
+      internalID: 716970198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bouncer_32x32_35
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 320
+        width: 26
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8f5ac9b18c024c7da5f164222dc258f
+      internalID: 1938213059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bouncer_32x32_36
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 322
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5b7b5566f40241149f8c0af1e215167
+      internalID: -1484381268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bouncer_32x32_37
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 320
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 276cc5d9d4f474bd4ab3c64fe494941e
+      internalID: 373126461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bouncer_32x32_38
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 322
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72b390bcfb477466f8bda64f340bc14c
+      internalID: -103177220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bouncer_32x32_39
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 320
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a33e71c016d5f4e988f81e03c4271763
+      internalID: 1567812031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bouncer_32x32_40
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 322
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95378f48dd8c047dfb27b9afdf7aaee0
+      internalID: -284365594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bouncer_32x32_41
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 258
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6e6fca9f4b654a65a8291a0ab3fb903
+      internalID: 2143528624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bouncer_32x32_42
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 258
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7899426f3957a4c1b988c59aa29933cc
+      internalID: 1219157949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bouncer_32x32_43
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 258
+        width: 26
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f946d1d30297441a0aec52544f15d414
+      internalID: -1348346177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bouncer_32x32_44
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 258
+        width: 26
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2257f9ec229054ed3a402340b26fe542
+      internalID: -1240201484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bouncer_32x32_45
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 258
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 187eda11c1a39402aabd3847fe1d67aa
+      internalID: 1351811812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bouncer_32x32_46
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 258
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1297ced74864f4f63aad5689487b8ebc
+      internalID: 22237114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bouncer_32x32_47
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 258
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e417fd1ef1491455392ed44bf7f04e8c
+      internalID: -1065936783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bouncer_32x32_48
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 258
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a027369f178c4914b285746874d3164
+      internalID: 233200803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bouncer_32x32_49
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 258
+        width: 26
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db318abb6a26c4902826807f47eb9b8a
+      internalID: -890228727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bouncer_32x32_50
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 258
+        width: 26
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a027800942d34ced8aaf867efdf09f2
+      internalID: 1110531903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bouncer_32x32_51
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 258
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c6c7a00e074d4b6e9ccb60e3ce61ccb
+      internalID: -795903407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bouncer_32x32_52
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 258
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 147fcd3b370974041a945db98bbd943b
+      internalID: 1798455651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bouncer_32x32_53
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 206
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 999e5d63b9b8140db80079bda6625979
+      internalID: -34324349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bouncer_32x32_54
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 206
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 329731937b9a3448eacf28c49d811642
+      internalID: -1671964705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bouncer_32x32_55
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 206
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9993f0e1ef9a54e7a926fa0b4996edeb
+      internalID: -309731531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bouncer_32x32_56
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 206
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6002eb8c41daa4feeb4ad737a378a6a9
+      internalID: -1607556090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bouncer_32x32_57
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 206
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99a396b83b1e546f39249bde078d4de7
+      internalID: 1363444985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bouncer_32x32_58
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 206
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c6a554b55a2a4b98bcd47cdcfe9f3ae
+      internalID: -483665007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bouncer_32x32_59
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 206
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ffad0a6ab36b4ce8a2e3cd72a5cfe08
+      internalID: -742398731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bouncer_32x32_60
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 206
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e2a9f286da3b4fd4957422905885593
+      internalID: 926869490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bouncer_32x32_61
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 206
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1600dbf43e5094c3d85f88afdaed8d65
+      internalID: 609276242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bouncer_32x32_62
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 206
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88b0881ea4006445b9073cdbcf6edcbc
+      internalID: 695097169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bouncer_32x32_63
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 206
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 066e3671fa5d34cc192125e546c793b6
+      internalID: -1156081010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bouncer_32x32_64
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 206
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae4f910405ab849d39d8ea328a611428
+      internalID: -1417590547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bouncer_32x32_65
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 130
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed33920a20ae14c81b5b32c6aec6db66
+      internalID: -184342421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bouncer_32x32_66
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 130
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b66690aad1d14540af71cda65ac0d3d
+      internalID: 691352609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bouncer_32x32_67
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 130
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c1f69b6d1b6c43669c143a0eaa65583
+      internalID: 1323395168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bouncer_32x32_68
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 130
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff81f04fd4bf04a5db4d483d9fc07fd6
+      internalID: -1203642202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bouncer_32x32_69
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 130
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 196cda41a514e427785e4d4d78ce861a
+      internalID: -1504469333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bouncer_32x32_70
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 130
+        width: 56
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1315f17d77a6f400eb3f89e863f0e68d
+      internalID: -1948039750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bouncer_32x32_71
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 130
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93cb56754b7a349b4aacf2a08550fb9e
+      internalID: -2005791043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bouncer_32x32_72
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 130
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10f996f82e0a247bbb07e6c28987d1f3
+      internalID: -2102922464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bouncer_32x32_73
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 130
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cec6cb99049849239606784d94ea792
+      internalID: 1921221262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bouncer_32x32_74
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 130
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 523353a8c736c45bda87d6ab3fcb07bb
+      internalID: -1860518473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bouncer_32x32_75
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 130
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ef567b4b1c5a4e4dab128c762e9a5e8
+      internalID: -1622823563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bouncer_32x32_76
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 64
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eacf19578fa147f8acfebe9f18d0688
+      internalID: 1519364701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bouncer_32x32_77
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 64
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2eb71ebd1ca84e3b90bd447dd9a7284
+      internalID: -162934524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bouncer_32x32_78
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 64
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c24e3aa0655244015ab95d4a92b504f3
+      internalID: 1123826098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bouncer_32x32_79
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 64
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b9999d37219d4593b7d79db03bb4437
+      internalID: -1212432690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bouncer_32x32_80
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 64
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebc60dc484f8f49eea9ebd2d7426e8c7
+      internalID: -541903329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bouncer_32x32_81
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 64
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d822e8781496f42b59d0fbf94a47a2ac
+      internalID: 1251085725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bouncer_32x32_82
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 64
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc251e23c33c347c3a1c61f889133ce9
+      internalID: -1344728760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bouncer_32x32_83
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 64
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64597a644a52d4e42953871bb0e969c8
+      internalID: 390574843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bouncer_32x32_84
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 64
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9a0f952acf6a4f34a4ce432ffa1e1d1
+      internalID: -1223657923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bouncer_32x32_85
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 12
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e74e32c96bcd24bfe8d10bb72e1a17c7
+      internalID: 2050370404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bouncer_32x32_86
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 14
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e102201b048b04d61b1a0636ee0c289e
+      internalID: -1051084579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bouncer_32x32_87
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 12
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d71657b5080b54289991f6bdf850e93a
+      internalID: 122446691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bouncer_32x32_88
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 12
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 724b700fc9f2a43108408a32b7fd23c6
+      internalID: 1646097796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bouncer_32x32_89
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 14
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abb0e2e67757849e1bc183b60f47fa14
+      internalID: 1995086400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bouncer_32x32_90
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 12
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac344e8a0ba964d2389509076b3f307f
+      internalID: 973198339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bouncer_32x32_91
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 2
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bda7a8e83ecf4a9a948471f33c1b7e7
+      internalID: -569305712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bouncer_32x32_92
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 2
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e585f9126c3f746c7babaee1650e002d
+      internalID: 1605723037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bouncer_32x32_93
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 2
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6a4dbf8559564050bf5a5c6c9209a0c
+      internalID: 1521307639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bouncer_32x32_94
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 2
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 018ba923a405a4a3fa5bb12b51de6647
+      internalID: -1448956468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bouncer_32x32_95
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 2
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 575aa577083044ccb8b9d1c0e6e94103
+      internalID: -1093086512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bouncer_32x32_96
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 2
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c16b5b485ec1b4c66a4fd332adbb3512
+      internalID: -596541459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bouncer_32x32_97
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 12
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27d9633da3219447aa4c9a0d14fd92c2
+      internalID: 2043274899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bouncer_32x32_98
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 14
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f35d8e43b00ed447e86b1d742d9a17fc
+      internalID: 954245388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bouncer_32x32_99
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 12
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27f66f86c476142e8804ee3f1a587cc6
+      internalID: 1008305711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bouncer_32x32_100
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 12
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24f0af87d0f4a4f74a4b93458b5ad951
+      internalID: -1461035205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bouncer_32x32_101
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 14
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bca76f8e0afd48809fce1101cd31e77
+      internalID: 742130837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bouncer_32x32_102
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 12
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6ca6d05261ed4251aa1aea251d8f3aa
+      internalID: 2057419156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bouncer_32x32_103
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 2
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41f9263bb305c477c82e87d32b6f8845
+      internalID: -615895039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bouncer_32x32_104
+      rect:
+        serializedVersion: 2
+        x: 1236
+        y: 0
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c10aaa119464a459984482a47364749e
+      internalID: 1478431743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bouncer_32x32_105
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 2
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b4485c0b5d0545a28505d9780f9600d
+      internalID: -18369175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bouncer_32x32_106
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 2
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b6fd7f90b6e24518992264d800cd7ed
+      internalID: -1159736305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bouncer_32x32_107
+      rect:
+        serializedVersion: 2
+        x: 1426
+        y: 0
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49eb81e4374a1492fa717ad10473244e
+      internalID: -150775788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bouncer_32x32_108
+      rect:
+        serializedVersion: 2
+        x: 1492
+        y: 2
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cd58ad726dc44d73a27b7a3f81ea22b
+      internalID: -778590257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bouncer_32x32_109
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 384
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9057c6dd369c947beb830056d835c719
+      internalID: -1945660627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bouncer_32x32_110
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a91d0f0256304ed98f7f2e157bc49b9
+      internalID: 200059178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bouncer_32x32_111
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 384
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 332281f51aa1349faa5181a732af2119
+      internalID: 1868260263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bouncer_32x32_112
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 384
+        width: 29
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f330e8d0574694d23a293c4bbc25d8f6
+      internalID: 1414657922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bouncer_32x32_113
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 385
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e739b2e8405314a039f8b079ae9357d6
+      internalID: 587516479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bouncer_32x32_114
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 321
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cd43d9de292844eea52adbaed20cacb
+      internalID: 2106911878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -132,7 +2547,122 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Bouncer_32x32_0: 433228093
+      Bouncer_32x32_1: -1221629172
+      Bouncer_32x32_10: 384481504
+      Bouncer_32x32_100: -1461035205
+      Bouncer_32x32_101: 742130837
+      Bouncer_32x32_102: 2057419156
+      Bouncer_32x32_103: -615895039
+      Bouncer_32x32_104: 1478431743
+      Bouncer_32x32_105: -18369175
+      Bouncer_32x32_106: -1159736305
+      Bouncer_32x32_107: -150775788
+      Bouncer_32x32_108: -778590257
+      Bouncer_32x32_109: -1945660627
+      Bouncer_32x32_11: 373590102
+      Bouncer_32x32_110: 200059178
+      Bouncer_32x32_111: 1868260263
+      Bouncer_32x32_112: 1414657922
+      Bouncer_32x32_113: 587516479
+      Bouncer_32x32_114: 2106911878
+      Bouncer_32x32_12: -1288376985
+      Bouncer_32x32_13: -141825317
+      Bouncer_32x32_14: 74547508
+      Bouncer_32x32_15: 295115918
+      Bouncer_32x32_16: 1572980626
+      Bouncer_32x32_17: 1380297801
+      Bouncer_32x32_18: -1349913708
+      Bouncer_32x32_19: -1389836853
+      Bouncer_32x32_2: -317438381
+      Bouncer_32x32_20: 96361100
+      Bouncer_32x32_21: 2103708811
+      Bouncer_32x32_22: -852873523
+      Bouncer_32x32_23: 1000047559
+      Bouncer_32x32_24: 351347587
+      Bouncer_32x32_25: -1219607366
+      Bouncer_32x32_26: 1058918357
+      Bouncer_32x32_27: 1174094259
+      Bouncer_32x32_28: -573866684
+      Bouncer_32x32_29: -1852228309
+      Bouncer_32x32_3: -1513346462
+      Bouncer_32x32_30: 793650821
+      Bouncer_32x32_31: 1805062438
+      Bouncer_32x32_32: -1944161953
+      Bouncer_32x32_33: -896935610
+      Bouncer_32x32_34: 716970198
+      Bouncer_32x32_35: 1938213059
+      Bouncer_32x32_36: -1484381268
+      Bouncer_32x32_37: 373126461
+      Bouncer_32x32_38: -103177220
+      Bouncer_32x32_39: 1567812031
+      Bouncer_32x32_4: -1852368331
+      Bouncer_32x32_40: -284365594
+      Bouncer_32x32_41: 2143528624
+      Bouncer_32x32_42: 1219157949
+      Bouncer_32x32_43: -1348346177
+      Bouncer_32x32_44: -1240201484
+      Bouncer_32x32_45: 1351811812
+      Bouncer_32x32_46: 22237114
+      Bouncer_32x32_47: -1065936783
+      Bouncer_32x32_48: 233200803
+      Bouncer_32x32_49: -890228727
+      Bouncer_32x32_5: -692759199
+      Bouncer_32x32_50: 1110531903
+      Bouncer_32x32_51: -795903407
+      Bouncer_32x32_52: 1798455651
+      Bouncer_32x32_53: -34324349
+      Bouncer_32x32_54: -1671964705
+      Bouncer_32x32_55: -309731531
+      Bouncer_32x32_56: -1607556090
+      Bouncer_32x32_57: 1363444985
+      Bouncer_32x32_58: -483665007
+      Bouncer_32x32_59: -742398731
+      Bouncer_32x32_6: 1796100337
+      Bouncer_32x32_60: 926869490
+      Bouncer_32x32_61: 609276242
+      Bouncer_32x32_62: 695097169
+      Bouncer_32x32_63: -1156081010
+      Bouncer_32x32_64: -1417590547
+      Bouncer_32x32_65: -184342421
+      Bouncer_32x32_66: 691352609
+      Bouncer_32x32_67: 1323395168
+      Bouncer_32x32_68: -1203642202
+      Bouncer_32x32_69: -1504469333
+      Bouncer_32x32_7: -1199778948
+      Bouncer_32x32_70: -1948039750
+      Bouncer_32x32_71: -2005791043
+      Bouncer_32x32_72: -2102922464
+      Bouncer_32x32_73: 1921221262
+      Bouncer_32x32_74: -1860518473
+      Bouncer_32x32_75: -1622823563
+      Bouncer_32x32_76: 1519364701
+      Bouncer_32x32_77: -162934524
+      Bouncer_32x32_78: 1123826098
+      Bouncer_32x32_79: -1212432690
+      Bouncer_32x32_8: -1262848563
+      Bouncer_32x32_80: -541903329
+      Bouncer_32x32_81: 1251085725
+      Bouncer_32x32_82: -1344728760
+      Bouncer_32x32_83: 390574843
+      Bouncer_32x32_84: -1223657923
+      Bouncer_32x32_85: 2050370404
+      Bouncer_32x32_86: -1051084579
+      Bouncer_32x32_87: 122446691
+      Bouncer_32x32_88: 1646097796
+      Bouncer_32x32_89: 1995086400
+      Bouncer_32x32_9: -1641059437
+      Bouncer_32x32_90: 973198339
+      Bouncer_32x32_91: -569305712
+      Bouncer_32x32_92: 1605723037
+      Bouncer_32x32_93: 1521307639
+      Bouncer_32x32_94: -1448956468
+      Bouncer_32x32_95: -1093086512
+      Bouncer_32x32_96: -596541459
+      Bouncer_32x32_97: 2043274899
+      Bouncer_32x32_98: 954245388
+      Bouncer_32x32_99: 1008305711
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
