@@ -79749,6 +79749,7 @@ GameObject:
   - component: {fileID: 639380296}
   - component: {fileID: 639380295}
   - component: {fileID: 639380298}
+  - component: {fileID: 639380299}
   m_Layer: 0
   m_Name: TourGuide
   m_TagString: Untagged
@@ -79770,6 +79771,15 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   interactionPrompt: {fileID: 12038180}
   dialogueBox: {fileID: 670004834}
+  dialogueTextDisplay: {fileID: 1301002128}
+  dialogueLines:
+  - Hello! Welcome to Grounds! My name is Angel and I am your UGuide!
+  - As a first-year, you have your whole college experience ahead of you.
+  - "You shape your own experience! Explore and experience everything\u2026 "
+  - 'or study and graduate as soon as possible. It is up to you! '
+  - "When you think you are ready to move on to the next year\u2026 "
+  - 'follow the arrow and take on the challenge! '
+  - "Good luck\u2026 and WAHOOWA! "
 --- !u!212 &639380296
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -79881,6 +79891,51 @@ BoxCollider2D:
   m_AutoTiling: 0
   serializedVersion: 2
   m_Size: {x: 2.7593198, y: 2.9684017}
+  m_EdgeRadius: 0
+--- !u!61 &639380299
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 639380294}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: -0.38336587}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 1.0181818, y: 2.05}
+    newSize: {x: 1.0181818, y: 2.05}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 1.0181818, y: 1.6666341}
   m_EdgeRadius: 0
 --- !u!1 &655572002
 GameObject:
@@ -117919,7 +117974,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Hello! Welcome to Grounds! My name is Angel and I am your UGuide!
+  m_text: 
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -128689,9 +128744,9 @@ RectTransform:
   m_LocalScale: {x: 0, y: 0, z: 0}
   m_ConstrainProportionsScale: 0
   m_Children:
+  - {fileID: 12038181}
   - {fileID: 817361438}
   - {fileID: 1577528986}
-  - {fileID: 12038181}
   - {fileID: 670004837}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
