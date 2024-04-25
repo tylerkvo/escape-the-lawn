@@ -28117,6 +28117,10 @@ PrefabInstance:
       propertyPath: levelName
       value: Lawn Year 1
       objectReference: {fileID: 0}
+    - target: {fileID: 119136976485918332, guid: 775fb63e9270741f6885a95c79b8479c, type: 3}
+      propertyPath: controller
+      value: 
+      objectReference: {fileID: 1450719932}
     - target: {fileID: 2090059277179362868, guid: 775fb63e9270741f6885a95c79b8479c, type: 3}
       propertyPath: m_Name
       value: Level Door
@@ -29483,6 +29487,10 @@ PrefabInstance:
       propertyPath: gracePeriod
       value: 45
       objectReference: {fileID: 0}
+    - target: {fileID: 7005682523485586334, guid: e95a0b08891a8456cb8f2ac4b209c92f, type: 3}
+      propertyPath: m_text
+      value: Year 2 Syllabus
+      objectReference: {fileID: 0}
     - target: {fileID: 7209186407508728105, guid: e95a0b08891a8456cb8f2ac4b209c92f, type: 3}
       propertyPath: m_Pivot.x
       value: 0
@@ -29566,6 +29574,10 @@ PrefabInstance:
     - target: {fileID: 8383984609373827567, guid: e95a0b08891a8456cb8f2ac4b209c92f, type: 3}
       propertyPath: m_Name
       value: GPA Canvas
+      objectReference: {fileID: 0}
+    - target: {fileID: 8677540472201186158, guid: e95a0b08891a8456cb8f2ac4b209c92f, type: 3}
+      propertyPath: m_text
+      value: 'Press SPACE to sign the honor code '
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
